@@ -1,3 +1,7 @@
+Woolies side is completed, but not Coles side. 
+---------------------------------------------------------------------
+
+
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
 
